@@ -1,0 +1,2 @@
+﻿  filewrite.cpp
+C:\Users\Zbook\OneDrive\Desktop\game1\game1\filewrite.cpp(11): error C4700: uninitialized local variable 'num' used

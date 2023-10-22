@@ -1,0 +1,5 @@
+﻿  function.cpp
+C:\Users\Zbook\OneDrive\Desktop\file\file\function.cpp(9,8): warning C4101: 'area': unreferenced local variable
+C:\Users\Zbook\OneDrive\Desktop\file\file\function.cpp(75,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zbook\OneDrive\Desktop\file\file\function.cpp(78,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  file.vcxproj -> C:\Users\Zbook\OneDrive\Desktop\file\x64\Debug\file.exe
